@@ -1,0 +1,7 @@
+{
+  "name": "tiendaycarritoreact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
